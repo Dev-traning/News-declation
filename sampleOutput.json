@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "SpaceX Starship launch live: Elon Musk's company prepares to launch biggest rocket ever",
+            "description": "Elon Musk's company is counting down to the debut launch of the most powerful rocket ever built.",
+            "url": "http://www.bbc.co.uk/news/live/science-environment-65297394",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-04-17T12:52:25.1999072Z",
+            "content": "As we've mentioned, Musk has made it very clear that he doesn't expect things to go smoothly with this launch.\r\nYesterday, in an event on Twitter Spaces, he said he wanted to \"lower expectations as m… [+779 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Netflix apologises as Love is Blind reunion delayed for UK viewers",
+            "description": "The special episode was pre-recorded and aired it in the US, but global viewers are left waiting.",
+            "url": "http://www.bbc.co.uk/news/technology-65298352",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FD46/production/_129383846_9bb134a2-e969-43ed-8a22-06bae944c5ea.jpg",
+            "publishedAt": "2023-04-17T11:37:20.2474876Z",
+            "content": "Netflix has apologised after the \"live\" Love is Blind reunion was delayed and pre-recorded, with UK viewers still waiting to see it.\r\nThe dating show, which sees couples get engaged before they meet,… [+2565 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Fox defamation trial delayed amid settlement talks",
+            "description": "Dominion is suing the TV network for $1.6bn, claiming it knowingly spread lies about its vote machines.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65299270",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D6A4/production/_129384945_gettyimages-1247944234.jpg",
+            "publishedAt": "2023-04-17T11:22:22.3251269Z",
+            "content": "A long-awaited defamation case being brought by a voting technology firm against Fox News has been delayed by a day and is now due to start on Tuesday.\r\nDominion Voting Systems is suing the TV networ… [+2347 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Alabama shooting: Young football star Phil Dowdell killed in Alabama shooting",
+            "description": "Four were killed at a 16-year-old girl's birthday party on Saturday in the small town of Dadeville.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65298018",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5990/production/_129382922_77fc43ab4b716741b51b05de7264ef5e95ba2bca0_138_4707_26481000x563.jpg",
+            "publishedAt": "2023-04-17T11:22:19.7632643Z",
+            "content": "Young sports star Phil Dowdell has been named as one of the victims in a mass shooting at a teenager's birthday party in Alabama at the weekend.\r\nAt least four people were killed at the party in the … [+3077 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Final curtain call for Broadway's Phantom of the Opera",
+            "description": "New York's longest running musical closed on Sunday after 35 years at the Majestic Theatre.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65299126",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18662/production/_129383999_gettyimages-1251905005.jpg",
+            "publishedAt": "2023-04-17T11:07:23.1234733Z",
+            "content": "After 35 years, 13,981 shows and seven Tony awards, Broadway's longest running musical - The Phantom of the Opera - closed on Sunday night. \r\nThough the show endured recessions, terrorism and cultura… [+2607 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sudan fighting: The military rivalry behind the clashes in Khartoum",
+            "description": "The fighting is a direct result of a vicious power struggle within the military leadership.",
+            "url": "http://www.bbc.co.uk/news/world-africa-65284948",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13068/production/_129382977_gettyimages-1251888054.jpg",
+            "publishedAt": "2023-04-17T10:52:18.4813018Z",
+            "content": "Media caption, Watch: Sheltering from fighter jets and gunfire around Khartoum airport\r\nThe fighting that has erupted in the Sudanese capital, Khartoum, and elsewhere in the country is a direct resul… [+4788 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Vladimir Kara-Murza: Russian opposition figure jailed for 25 years",
+            "description": "The former journalist denies the charges against him, which are linked to his anti-war comments.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65297003",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-04-17T08:52:19.4343736Z",
+            "content": "Opposition activist Vladimir Kara-Murza has been sentenced to 25 years in jail for treason and other charges linked to his criticism of the war in Ukraine.\r\nThe Russian-British former journalist and … [+651 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Maharashtra: Eleven die of heatstroke at Indian award event",
+            "description": "The government-sponsored event was held in India's Maharashtra state in an open ground.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-65296164",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/116FA/production/_129381417_signal-2023-04-17-092728_002.jpg",
+            "publishedAt": "2023-04-17T08:07:25.5912837Z",
+            "content": "Eleven people have died from heatstroke while many others have been admitted to hospital after attending an awards ceremony in India's Maharashtra state.\r\nThe government-sponsored event took place in… [+2519 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sudan: Explosions and gunfire in Khartoum as fighting rages",
+            "description": "Almost 100 civilians have died during the violence, according to the Sudanese doctors' union.",
+            "url": "http://www.bbc.co.uk/news/live/world-africa-65285254",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-04-17T08:07:24.5914225Z",
+            "content": "President Museveni was involved in Sudan mediationImage caption: President Museveni was involved in Sudan mediation\r\nUgandas President Yoweri Museveni has condemned the misuse of force\" in the Sudan … [+1154 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elon Musk's SpaceX firm set to fly giant Starship rocket system",
+            "description": "Elon Musk's company is counting down to the debut launch of the most powerful rocket ever built.",
+            "url": "http://www.bbc.co.uk/news/science-environment-65294084",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB85/production/_129379165_index.jpg",
+            "publishedAt": "2023-04-17T05:37:10.4499978Z",
+            "content": "The most powerful rocket ever developed is about to attempt a maiden launch. \r\nThe vehicle, known as Starship, has been built by the American entrepreneur Elon Musk's SpaceX company. \r\nIt stands almo… [+4257 chars]"
+        }
+    ]
+}
