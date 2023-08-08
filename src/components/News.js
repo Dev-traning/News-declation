@@ -56,9 +56,9 @@ const News = (props) => {
 
     // InfiniteScroll
     const fetchMoreData = async () => {
-        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apikey=${props.apikey}&page=${page + 1}&pageSize=${props.pageSize}`
+        // let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apikey=${props.apikey}&page=${page + 1}&pageSize=${props.pageSize}`
         setPage(page + 1);
-        // let url = `https://newsdata.io/api/1/news?apikey=${props.apikey}&q=social&country=${props.country}&category=${props.category}`
+        let url = `https://newsdata.io/api/1/news?apikey=${props.apikey}&q=social&country=${props.country}&category=${props.category}`
         let data = await fetch(url)
         let parsedData = await data.json()
         setArticles(articles.concat(parsedData.articles))
